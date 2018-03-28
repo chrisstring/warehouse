@@ -1,4 +1,4 @@
-#first script of the firsts7test in python. it works!! can you commit this? maybe, okay it did
+#first script of the firsts7test in python. it works!! can you commit this? maybe, okay it did. wait.master
 #!/usr/bin/env python3
 import requests,time
 
