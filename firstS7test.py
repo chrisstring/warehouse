@@ -1,3 +1,5 @@
+#first script of the firsts7test in python. it works!!
+#!/usr/bin/env python3
 import requests,time
 
 url = "https://s7sps1apissl.scene7.com/scene7/services/IpsApiService"
