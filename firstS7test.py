@@ -1,4 +1,4 @@
-#first script of the firsts7test in python. it works!!
+#first script of the firsts7test in python. it works!! can you commit this?
 #!/usr/bin/env python3
 import requests,time
 
